@@ -24,6 +24,7 @@
     "prettier/prettier": "error",
     "camelcase": "off",
     "no-underscore-dangle": "off",
+    "@typescript-eslint/no-explicit-any": "off",
     "import/no-unresolved": "error",
     "@typescript-eslint/naming-convention": [
       "error",
